@@ -1,0 +1,6 @@
+framework module Corona_plugin_zeroconf {
+  umbrella header "Corona_plugin_zeroconf.h"
+
+  export *
+  module * { export * }
+}
